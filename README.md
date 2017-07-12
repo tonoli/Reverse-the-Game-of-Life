@@ -15,3 +15,15 @@ The "Game" takes place on a two-dimensional grid consisting of "living" and "dea
 * __Reproduction__: if a dead cell is surrounded by exactly three cells, it becomes a live cell.
 
 By enforcing these rules in sequential steps, beautiful and unexpected patterns can appear.
+
+
+<p align="center"><img src="https://i.stack.imgur.com/mz0iM.gif"></p>
+<p align="center" font-style="italic">This is a digital clock that works perfectly and is produced only by these 4 simple rules</p>
+
+## Our project reverse the time
+
+__To do:__  
+- Build a 20x20 grid generator that will enable me to increase the data I already have, to feed our algorithm.
+- Build the algorithm model that will enable to minimize the Case function
+
+I will represent each grid as a 20x20 matrix containing 0 if the cell is "dead" or 1 otherwise.
