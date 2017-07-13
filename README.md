@@ -25,5 +25,6 @@ By enforcing these rules in sequential steps, beautiful and unexpected patterns 
 __To do:__  
 - Build a 20x20 grid generator that will enable me to increase the data I already have, to feed our algorithm.
 - Build the algorithm model that will enable to minimize the Case function
+- Plot the Data into Matlab to see if we can visualize it better
 
 I will represent each grid as a 20x20 matrix containing 0 if the cell is "dead" or 1 otherwise.
